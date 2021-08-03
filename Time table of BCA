@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Time Table</title>
+</head>
+<body>
+<h1><pre>                     <i>Rayat Bahra Institute of management,V Bohan, Hoshiarpur</i></pre></h1>
+<h2><pre>                                           <u>Time table for session Jan-may 2021</u></pre></h2>
+<h3><pre> BCA semester 4 Room No-     CTI-Miss Neha</pre> </h3>
+<table border="5" cellspacing="0" align="center">
+<tr>
+<td width="100" height="50" align="center"> <br>
+<b>Days</b><br>
+ </td>
+ <td width="100" height="50" align="center"><br>
+ <b>09:00AM-09:55AM</b><br>
+ </td>
+ <td width="100" height="50" align="center"><br>
+ <b>09:55AM-10:50AM</b><br>
+ </td>
+ <td width="100" height="50" align="center"><br>
+ <b>10:50AM-11:45AM</b><br>
+ </td>
+ <td width="100" height="50" align="center"><br>
+ <b>11:45AM-12:40PM</b><br>
+ </td>
+ <td height="50" width="100" align="center"><br>
+ <b>12:40PM-01:35PM</b><br>
+ </td>
+ <td width="100" height="50"align="center"><br>
+ <b>01:35PM-02:30PM</b><br>
+ </td>
+ <td width="100" height="50" align="center"><br>
+ <b>02:30PM-03:25PM</b><br>
+ </td>
+ <td width="100" height="50"  align="center"><br>
+ <b>03:25PM-04:20PM</b><br>
+ </td>
+</tr>
+<tr>
+<td align="center" height="50">Monday</td>
+<td align="center"height="50">L-OS-UGCA1923-Daljit</td>
+<td align="center"height="50">L-SE-UGCA1921-Isha</td>
+<td align="center"height="50" bgcolor="grey">L-Web Designing-UGCA1927-Neha</td>
+<td align="center"height="50">L-DBMS-UGCA1922-Satinder</td>
+<td align="center" height="50">LUNCH</td>
+<td colspan="2" align="center"height="50">P-SWL-SE-UGCA1924-Isha</td>
+<td align="center"height="50">P-SWL-OS-UGCA1926-Daljit-GRP-B</td>
+</tr>
+<tr>
+<td align="center" height="50">Tuseday</td>
+<td align="center"height="50">L-OS-UGCA1923-Daljit</td>
+<td colspan="2" align="center"height="50">P-SWL-OS-UGCA1926-Daljit-GRP-A</td>
+<td align="center"height="50">L-DBMS-UGCA1922-Satinder</td>
+<td align="center"height="50"bgcolor="grey">P-SWL-Web Designing-UGCA1928-Neha</td>
+<td colspan="2" align="center"height="50">P-SWL-DBMS-UGCA1925-Satinder-GRP-B</td>
+<td align="center"height="50">P-SWL-OS-UGCA1926-Daljit-GRP-B</td>
+</tr>
+<tr>
+<td align="center" height="50">Wednesday</td>
+<td align="center"height="50">L-DBMS-UGCA1922-Satinder</td>
+<td colspan="2" align="center"height="50">P-SWL-OS-UGCA1926-Daljit-GRP-B</td>
+<td align="center"height="50">L-SE-UGCA1921-Isha</td>
+<td align="center"height="50"bgcolor="grey">P-SWL-Web Designing-UGCA1928-Neha</td>
+<td colspan="2" align="center"height="50">P-SWL-DBMS-UGCA1925-Satinder-GRP-A</td>
+<td align="center"height="50">L-SWL-OS-UGCA1923-Daljit</td>
+</tr>
+<tr>
+<td align="center" height="50">Thursday</td>
+<td align="center"height="50">L-OS-UGCA1923-Daljit</td>
+<td colspan="2" align="center"height="50">P-SWL-SE-UGCA1921-Isha</td>
+<td align="center"height="50">L-MPD-BMPD402-18-Satinder</td>
+<td align="center"height="50"bgcolor="grey">P-SWL-Web Designing-UGCA1928-Neha</td>
+<td colspan="2" align="center"height="50">P-SWL-DBMS-UGCA1925-Satinder-GRP-A</td>
+<td align="center"height="50">L-SE-UGCA1921-Isha</td>
+</tr>
+<tr>
+<td align="center" height="50">Friday</td>
+<td align="center"height="50">L-DBMS-UGCA1922-Satinder</td>
+<td colspan="2" align="center"height="50">P-SWL-OS-UGCA1926-Daljit-GRP-A</td>
+<td align="center"height="50">L-SE-UGCA1921-Isha</td>
+<td align="center"height="50">LUNCH</td>
+<td colspan="2" align="center"height="50">P-SWL-DBMS-UGCA1925-Satinder-GRP-A</td>
+<td align="center"height="50"bgcolor="grey" >P-SWL-Web Designing-UGCA1928-Neha</td>
+</tr>
+</body>
+</html>
