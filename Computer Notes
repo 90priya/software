@@ -1,0 +1,47 @@
+<html>
+ <head>
+   <title>computer</title>
+</head>
+<body bgcolor="white">
+ <h1><pre>      computer notes   <b><h6>      welcome to computer notes </h6></pre></h1>
+<a href="      " target="_self">visit computer</a>       
+  <h2>Q: what is a computer :-</h2>
+<p>A Computer is an electronic device or machine that can perform arithmetic operations like addition , subtraction ,multiplication, division etc. as well as logical operations like comparisons at very high speed. </p>
+  <h2>Q: characteristics of computers :-</h2>
+<ul type=disc>
+<li>Accuracy
+<li>Speed
+<li>Large storage capacity
+<li>Reliability
+<li>Automatic
+<li>No Intelligence
+</ul>
+<h2>Accuracy:-</h2>
+<p> computer system  always produces accuracy results with valid data and instructions. In simple terms, one cannot expect correct and accurate results when the instruction set to manipulate the data is incorrect or the data which user is supplying to the computeris wrong.</p>
+<h2>Speed:-</h2>
+<p>A computer performs operations with very high speed . It can process millions of instruction  in fraction of seconds . The speed of computer  variou from computer to computer.It is basically  measured in nanoseconds (10<sup>-9</sup>seconds)and picoseconds(10<sup>-12</sup>seconds).</p>
+<h2>Large storage capacity:-</h2>
+<p>A computer has large storage capacity .It can store large volume of data . We can store any kind of data in computer's storage.This data can be text,picture,sound,video etc.</p>
+<h2>Reliability:-</h2>
+<p> computerized storage of data is much more reliable than the manual storage . we can store the data in computer's storage for a long period of time except until any kind of system failure occurs.</p>
+<h2>Automati:-</h2>
+<p>A machine that work s itself without any human involvement is said to be an automatic machine. computer are automatic machines; they can work on any given job automatically till it gets finished without any human interference.<p/>
+<h2>No Intelligence:-</h2>
+<p>A computer has no intelligence of its own. it depends upon user's instruction for any kind of task . now days,some artifical intelligence (AI) has been introduced that helps the computer to take some dacisions on its own . Robots are the example of such AI systems.</p>  
+<h2>Q: Benefits and Limitations of computers</h2> 
+<h3>Benefits:-</h3>
+<ul type="disc">
+<li>It can solve complex calculation quickly which takes a long time to solve manually.
+<li>It is a self-directing machine. this means that the user provides all the instruction to the computer at initial stage and the later it proceeds without any human intervention .
+<li>It saves and retrives information . It can store huge amount of data and gives out the same data when needed.
+<li>All electronic items have some form of computing functions.
+</ul> 
+<h3>Limitations:-</h3>
+<ul type="disc">
+<li>A computer has no intelligence of its own . It depends upon user's instructions for any kind of task . it can not replace a human brain. 
+<li>It works only on stored procedures and cannot think on its own.
+<li>It can not correct invalid input. If mistakenly given incorrectdata or instruction , it dose not have the ability to correct it .
+<li>It dose not have feelings. It dose not turns on itself or programming itself.
+</ul>
+</body>
+</html>
