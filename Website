@@ -1,0 +1,132 @@
+<html>
+ <head> 
+ <title>computer notes</title>
+ <style>
+ #par{
+ text-align:center;
+ color:blue;
+ }
+ </style>
+ <style>
+body {
+  background-color: lightgray;
+}
+
+h1 {
+  color:darkblue;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+</style>
+<script type="text/javascript">
+function na()
+{
+ver x =document.forms["myform"]["fname"].value;
+if (x ==""){
+ alert("name must be filled out");
+ return false;
+ }
+ }
+ </script>
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+.topnav a.active {
+  background-color: #04AA6D;
+  color: white;
+}
+</style>
+ </head>
+<body>
+<div class="topnav">
+  <a class="active" href="#home">Home</a>
+  <a href="https://itcomputer234.blogspot.com/2021/05/basic-computer-notes.html  ">News</a>
+  <a href="https://www.w3schools.com/html/default.asp">Contact</a>
+  <a href="https://www.w3schools.com/css/default.asp">About</a>
+</div>
+
+<div style="padding-left:16px">
+</div>
+<p id ="par">computer</p>
+<h1><pre>     Computer notes   <b><h4>      welcome to computer notes </h4></pre></h1> 
+<a href=" https://itcomputer234.blogspot.com/2021/05/basic-computer-notes.html     " target="_self">visit computer</a>    
+<pre>                          <img src= "christin-hume-Hcfwew744z4-unsplash.jpg"  width="800" height="400"></pre>       
+  <h2>Q: what is a computer :-</h2>
+<p>A Computer is an electronic device or machine that can perform arithmetic operations like addition , subtraction ,multiplication, division etc. as well as logical operations like comparisons at very high speed. </p>
+<pre>                 <img src= "aleksander-vlad-jiVeo0i1EB4-unsplash.jpg"  width="800" height="400"></pre><br>
+<video width="800" controls>
+  <source src="mov_bbb.mp4" type="video/mp4">
+  <source src="mov_bbb.ogg" type="video/ogg">
+</video><br>
+<a href="https://youtu.be/z3KnlfATUek" target="_blank">computer</a>
+<h3> Q:CHARACTERISTICS OF COMPUTER</h3>
+<ul type=disc >
+<li>Accuracy</li>
+<li>Speed
+<li>Large storage capacity
+<li>Reliability
+<li>Automatic
+<li>No Intelligence
+</ul>
+<h2>Accuracy:-</h2>
+<p> computer system  always produces accuracy results with valid data and instructions. In simple terms, one cannot expect correct and accurate results when the instruction set to manipulate the data is incorrect or the data which user is supplying to the computeris wrong.</p>
+<h2>Speed:-</h2>
+<p>A computer performs operations with very high speed . It can process millions of instruction  in fraction of seconds . The speed of computer  variou from computer to computer.It is basically  measured in nanoseconds (10<sup>-9</sup>seconds)and picoseconds(10<sup>-12</sup>seconds).</p>
+<h2>Large storage capacity:-</h2>
+<p>A computer has large storage capacity .It can store large volume of data . We can store any kind of data in computer's storage.This data can be text,picture,sound,video etc.</p>
+<h2>Reliability:-</h2>
+<p> computerized storage of data is much more reliable than the manual storage . we can store the data in computer's storage for a long period of time except until any kind of system failure occurs.</p>
+<h2>Automatic:-</h2>
+<p>A machine that work s itself without any human involvement is said to be an automatic machine. computer are automatic machines; they can work on any given job automatically till it gets finished without any human interference.<p/>
+<h2>No Intelligence:-</h2>
+<p>A computer has no intelligence of its own. it depends upon user's instruction for any kind of task . now days,some artifical intelligence (AI) has been introduced that helps the computer to take some dacisions on its own . Robots are the example of such AI systems.</p>  
+<pre>                        <img src= "sebastian-bednarek-x2Z0uNj-Quo-unsplash.jpg"  width="800" height="400"></pre>
+<h2>Q: Benefits and Limitations of computers</h2> 
+<h3>Benefits:-</h3>
+<ul type="disc">
+<li>It can solve complex calculation quickly which takes a long time to solve manually.
+<li>It is a self-directing machine. this means that the user provides all the instruction to the computer at initial stage and the later it proceeds without any human intervention .
+<li>It saves and retrives information . It can store huge amount of data and gives out the same data when needed.
+<li>All electronic items have some form of computing functions.
+</ul> 
+<h3>Limitations:-</h3>
+<ul type="disc">
+<li>A computer has no intelligence of its own . It depends upon user's instructions for any kind of task . it can not replace a human brain. 
+<li>It works only on stored procedures and cannot think on its own.
+<li>It can not correct invalid input. If mistakenly given incorrectdata or instruction , it dose not have the ability to correct it .
+<li>It dose not have feelings. It dose not turns on itself or programming itself.
+</ul>
+<pre>                        <img src= "niclas-illg-zEBqF_E2FIY-unsplash.jpg"  width="800" height="400"></pre>
+<form name ="myform" action="" onsubmit="return na()" method="post">
+Name:<input type="text"
+name="fname">
+<input type="submit" value="submit"></form>
+<pre>                              <h1><u>Thank you</h1></pre>
+</body>
+</html>
